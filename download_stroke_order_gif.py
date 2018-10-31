@@ -63,5 +63,6 @@ def download_character_gif(search_character):
 # example
 #
 
+# https://commons.wikimedia.org/wiki/File:是-order.gif
 search_character = "是"
 download_character_gif(search_character)
